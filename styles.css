@@ -88,6 +88,7 @@ h1{
 
 .image-container{
       margin-top: 8em;
+      margin-left: -1em;
 
       /* display: flex;
       gap: 2em; */
